@@ -76,7 +76,7 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
-\*\***The interaction seemed interesting and fun if not a bit complicated. Nobody understood the second panel of my story board because it was too complicated. The motivations behind using the device were unclear besides for playing a game.**\*\*
+\*\***The interaction seemed interesting and fun if not a bit complicated. Nobody understood the second panel of my story board because it was too complicated (and it was also a meme reference). The motivations behind using the device were unclear besides for playing a game.**\*\*
 
 
 ## Part B. Act out the Interaction
@@ -117,7 +117,7 @@ Only now should you start worrying about what the device should look like. Devel
 
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
-\*\***Include sketches of what your device might look like here.**\*\*
+![Costume Design](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%201/costume.jpg)
 
 \*\***The device is designed to give the players an immersive feeling of being in the game and having the theme of crossing a real street. Because interaction with the device is mainly from visual cues, the device should ideally be large, readable, and eye-catching, however, the use of a phone as a substitute limits its effectiveness due to size. The device should also be out of the way for players to freely move around without worrying about bumping into anything.**\*\*
 
