@@ -85,7 +85,7 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Walking back and forth sounds fine on paper, but gets repititive when you actually do it. It also gets tiring fast when walking with larger "street" sizes. The enjoyment from interacting with the device alone is much less than in a group.**\*\*
 
-\*\***There could be ways to make the interactive game more fun through variety and randomness, however that would require a more complex device. Ideas include: showing icons, having multiple sounds, automatic "on/off street" detection via computer vision, randomized police siren lengths, double points time.**\*\*
+\*\***There could be ways to make the interactive game more fun through variety and randomness, however that would require a more complex device. Ideas include: showing icons, having multiple sounds, automatic "on/off street" detection via computer vision or pressure pads, randomized police siren lengths, double bonus-points time.**\*\*
 
 
 ## Part C. Prototype the device
@@ -126,7 +126,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-\*\***Collaborations credits go to Matt Ardizone and Calvin Ying; my roommates, sources of feedback, and star cast for the video**\*\*
+\*\***Collaborations credits go to Matt Ardizone and Calvin Ying; my roommates, sources of feedback, and star cast for the video. Also to primary school gym class, which may or may not have embedded this game into my subconcious.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 
