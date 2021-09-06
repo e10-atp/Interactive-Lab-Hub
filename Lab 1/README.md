@@ -68,7 +68,7 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
-\*\***The interaction should take place within an indoor setting, however since the interaction simulates crossing the street, the space should be at least 15-20 ft long and 10-15 ft wide. Ideally there would be a crosswalk on the ground to enhance immersion and sycronized interactive lights on each side of the street which simulate pedestrian stop-lights. The interaction can be performed by from one person to dozens of people (space permitting). Since the players take cues from the device and never the other way around, the player count is scalable in terms of device functionality. The players are essentially trying to play a game where they cross from one side of the street to another as many times as possible; each player is competing against all other the other players to get the highest number of crosses. As with a normal stop light, the device will light white when it is legal to walk and red when walking is not permitted. Players can choose to "jay-walk" during a red light to increase their scores over law abiding players, however with a certain probablility there will be police patroling the streets on red lights (indicated by the device suddenly flashing red and blue and playing a siren sound). If the player is still on the street by the time the siren stops they will be taken to jail and held out for a period of time. Essentially, the players will watch the device and use it to determine risk/reward for scoring points.**\*\*
+\*\***The interaction should take place within an indoor setting, however since the interaction simulates crossing the street, the space should be at least 15-20 ft long and 10-15 ft wide. Ideally there would be a crosswalk printed on the ground to enhance immersion and syncronized interactive lights on each side of the street which simulate pedestrian stop-lights. The interaction can be performed by from one person to dozens of people (space permitting). Since the players take cues from the device and never the other way around, the player count is scalable in terms of device functionality. The players are essentially trying to play a game where they cross from one side of the street to another as many times as possible; each player is competing against all other the other players to get the highest number of crosses. As with a normal stop light, the device will light white when it is legal to walk and red when walking is not permitted. Players can choose to "jay-walk" during a red light to increase their scores over law abiding players, however with a certain probablility there will be police patroling the streets on red lights (indicated by the device suddenly flashing red and blue and playing a siren sound). If the player is still on the street by the time the siren stops they will be taken to jail and held out for a period of time. Essentially, the players will watch the device and use it to determine risk/reward for scoring points.**\*\*
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
@@ -76,16 +76,16 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
-\*\***Summarize feedback you got here.**\*\*
+\*\***The interaction seemed interesting and fun if not a bit complicated. Nobody understood the second panel of my story board because it was too complicated. The motivations behind using the device were unclear besides for playing a game.**\*\*
 
 
 ## Part B. Act out the Interaction
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
-\*\***Are there things that seemed better on paper than acted out?**\*\*
+\*\***Walking back and forth sounds fine on paper, but gets repititive when you actually do it. It also gets tiring fast when walking with larger "street" sizes. The enjoyment from interacting with the device alone is much less than in a group.**\*\*
 
-\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+\*\***There could be ways to make the interactive game more fun through variety and randomness, however that would require a more complex device. Ideas include: showing icons, having multiple sounds, automatic "on/off street" detection via computer vision, randomized police siren lengths, double points time.**\*\*
 
 
 ## Part C. Prototype the device
@@ -98,7 +98,7 @@ We invented this tool for this lab!
 
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
-\*\***Give us feedback on Tinkerbelle.**\*\*
+\*\***Tinkerbelle was a little hard to use over campus wifi. Worked after changing the port number. The Tinkerbell button would not clear the color palettes on iOS.**\*\*
 
 
 ## Part D. Wizard the device
@@ -119,14 +119,14 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Include sketches of what your device might look like here.**\*\*
 
-\*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+\*\***The device is designed to give the players an immersive feeling of being in the game and having the theme of crossing a real street. Because interaction with the device is mainly from visual cues, the device should ideally be large, readable, and eye-catching, however, the use of a phone as a substitute limits its effectiveness due to size. The device should also be out of the way for players to freely move around without worrying about bumping into anything.**\*\*
 
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
+\*\***Collaborations credits go to Matt Ardizone and Calvin Ying; my roommates, sources of feedback, and star cast for the video**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 
