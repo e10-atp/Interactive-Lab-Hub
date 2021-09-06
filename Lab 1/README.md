@@ -124,7 +124,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 ## Part F. Record
 
-\*\***Take a video of your prototyped interaction.**\*\*
+https://youtu.be/EikNR4NKw8s
 
 \*\***Collaborations credits go to Matt Ardizone and Calvin Ying; my roommates, sources of feedback, and star cast for the video. Cameraman credits go to Keith. Also to primary school gym class, which may or may not have embedded this game into my subconcious.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
