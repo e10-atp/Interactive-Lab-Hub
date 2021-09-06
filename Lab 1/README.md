@@ -108,7 +108,7 @@ https://youtube.com/embed/fATc_1ad9Fo
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
-\*\***Show the follow-up work here.**\*\*
+\*\***After wizarding I realized that latency might be an issue, especially with sound alerts**\*\*
 
 
 ## Part E. Costume the device
@@ -126,7 +126,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-\*\***Collaborations credits go to Matt Ardizone and Calvin Ying; my roommates, sources of feedback, and star cast for the video. Also to primary school gym class, which may or may not have embedded this game into my subconcious.**\*\*
+\*\***Collaborations credits go to Matt Ardizone and Calvin Ying; my roommates, sources of feedback, and star cast for the video. Cameraman credits go to Keith. Also to primary school gym class, which may or may not have embedded this game into my subconcious.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 
