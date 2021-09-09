@@ -145,9 +145,11 @@ You will be assigned three partners from another group. Go to their github pages
 The game was pretty fun to play, at least from what I could see. I think the only thing is that there should've been a more obvious indication as to when they were let out of jail -- maybe they are in jail until the next police siren rings? 
 
 In any case, the colors shown on the phone in the video seem to correlate with what you were shooting for, and they were simple enough that the players understood what was going on for the most part. (Also, respect for panel #2 in the storyboard 😉)
-Agustin Gregory Forero , Sep 7 at 7:42pm
+
+
 To start, I wanted to say that I appreciate your use of a JoJo's Bizarre Adventure reference in your story board. I also think that your story board uses a good mixture of text and drawings to convey the intended use of your device. I also like that you decide to use your device to supplement a pre-established game that I have also played in my childhood physical education classes. I wish that you would have given us a closer look at how you costumed the device as it is difficult to see in the video.  Also on a less important note, I think you may have formatted the github readme file incorrectly.
-Alexander Bradley Kluver , Sep 7 at 8:13pm
+
+
 Great job! I really liked the competitive element and noticed that the players seemed to get more competitive if the other player took on increased risk, so they wouldn't feel left behind in the game.
 
 What I wished the video had was a live scorekeeping element. Knowing the score would have made watching the video more exciting to see how score was influencing player decisions. Great job! 
