@@ -162,3 +162,13 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+Setting: This is happening by a desk in a room, office area, or study space.
+
+Players: The owner of the device is interacting with the device.
+
+Activity: The device is alerting the user through vibration that they have an unsubmitted Canvas assignment due that night
+
+Goals: The user's goal is to be alerted that they are about to miss an assignment
+
+
