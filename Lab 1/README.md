@@ -178,7 +178,8 @@ Goals: The user's goal is to be alerted that they are about to miss an assignmen
 ![Story Board](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%201/story.jpg)
 
 ## Act out the Interaction
-My first instinct was to use my phone because it had a built in vibration function, however it was simpler to prototype with a computer mouse taped to a pen.
+
+My first instinct was to use my phone because it had a built in vibration function, however it was simpler to prototype with a computer mouse taped to a pen. It made me think about how the phone just became our default interactive device.
 
 ## Costume the device
 
@@ -187,5 +188,6 @@ The device is put into a flamboyant get-up to attract the user's attention and t
 ![Costume](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%201/unnamed.jpg)
 
 ## Record
+
 Interactive Video: https://youtu.be/AGi-LaNKzH4
 
