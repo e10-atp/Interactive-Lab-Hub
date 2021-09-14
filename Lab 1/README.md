@@ -140,7 +140,7 @@ This describes the second week's work for this lab activity.
 
 You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
 
-\*\***Summarize feedback from your partners here.**\*\*
+\*\***Summarize feedback from your partners here. TLDR Below**\*\*
 
 The game was pretty fun to play, at least from what I could see. I think the only thing is that there should've been a more obvious indication as to when they were let out of jail -- maybe they are in jail until the next police siren rings? 
 
@@ -153,6 +153,9 @@ To start, I wanted to say that I appreciate your use of a JoJo's Bizarre Adventu
 Great job! I really liked the competitive element and noticed that the players seemed to get more competitive if the other player took on increased risk, so they wouldn't feel left behind in the game.
 
 What I wished the video had was a live scorekeeping element. Knowing the score would have made watching the video more exciting to see how score was influencing player decisions. Great job! 
+
+\*\***Summary Here**\*\*
+Make the device direct every interaction the player needs to perform. Make the costume more apparant. A better information display would make the experience better.
 
 ## Make it your own
 
@@ -172,15 +175,17 @@ Activity: The device is alerting the user through vibration that they have an un
 
 Goals: The user's goal is to be alerted that they are about to miss an assignment
 
-![Story Board](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%201/storyboard.jpg)
+![Story Board](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%201/story.jpg)
 
 ## Act out the Interaction
 My first instinct was to use my phone because it had a built in vibration function, however it was simpler to prototype with a computer mouse taped to a pen.
 
 ## Costume the device
 
-![Costume](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%201/storyboard.jpg)
+The device is put into a flamboyant get-up to attract the user's attention and to mock them for their poor time management.
 
-## Part F. Record
+![Costume](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%201/unnamed.jpg)
+
+## Record
 Interactive Video: https://youtu.be/AGi-LaNKzH4
 
