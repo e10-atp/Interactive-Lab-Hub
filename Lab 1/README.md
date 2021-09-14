@@ -163,6 +163,7 @@ Do last week’s assignment again, but this time:
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
+## Plan 
 Setting: This is happening by a desk in a room, office area, or study space.
 
 Players: The owner of the device is interacting with the device.
@@ -171,4 +172,15 @@ Activity: The device is alerting the user through vibration that they have an un
 
 Goals: The user's goal is to be alerted that they are about to miss an assignment
 
+![Story Board](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%201/storyboard.jpg)
+
+## Act out the Interaction
+My first instinct was to use my phone because it had a built in vibration function, however it was simpler to prototype with a computer mouse taped to a pen.
+
+## Costume the device
+
+![Costume](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%201/storyboard.jpg)
+
+## Part F. Record
+Interactive Video: https://youtu.be/AGi-LaNKzH4
 
