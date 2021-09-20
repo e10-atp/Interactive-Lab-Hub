@@ -60,12 +60,32 @@ backlight = digitalio.DigitalInOut(board.D22)
 backlight.switch_to_output()
 backlight.value = True
 
+# these setup the code for our buttons and the backlight and tell the pi to treat the GPIO pins as digitalIO vs analogIO
+buttonA = digitalio.DigitalInOut(board.D23)
+buttonB = digitalio.DigitalInOut(board.D24)
+buttonA.switch_to_input()
+buttonB.switch_to_input()
+
+from adafruit_rgb_display.rgb import color565
+sleeptime = 0
+
 while True:
     # Draw a black filled box to clear the image.
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
-
+    y = top
+    if not buttonA.value and not buttonB.value:
+        sleeptime = 0  # reset sleeptime
+        draw.text((x, y), "Time Reset", font=font, fill="#FFFFFF")
+    if buttonB.value and not buttonA.value:  # just button A pressed
+        t = time.strftime("%m/%d/%Y %H:%M:%S")
+        draw.text((x, y), t, font=font, fill="#FFFFFF")
+        sleeptime += 1
+        time.sleep(sleeptime)
+    if buttonA.value and not buttonB.value:  # just button B pressed
+        draw.text((x, y), str(sleeptime), font=font, fill="#FFFFFF")  
+    
     # Display image.
     disp.image(image, rotation)
     time.sleep(1)
