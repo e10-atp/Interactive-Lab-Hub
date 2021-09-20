@@ -194,6 +194,7 @@ https://youtu.be/E3XDx_nKqz4
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+![Sketch](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%202/sketch.jpg)
 
 
 # Prep for Part 2
