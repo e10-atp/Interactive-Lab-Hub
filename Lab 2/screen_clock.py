@@ -68,6 +68,7 @@ buttonB.switch_to_input()
 
 from adafruit_rgb_display.rgb import color565
 sleeptime = 0
+import random
 
 while True:
     # Draw a black filled box to clear the image.
@@ -75,17 +76,21 @@ while True:
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
     y = top
-    if not buttonA.value and not buttonB.value:
-        sleeptime = 0  # reset sleeptime
-        draw.text((x, y), "Time Reset", font=font, fill="#FFFFFF")
+    t = time.strftime("%H:%M:%S")
+    hour, min, sec = t.split(':')
     if buttonB.value and not buttonA.value:  # just button A pressed
-        t = time.strftime("%m/%d/%Y %H:%M:%S")
         draw.text((x, y), t, font=font, fill="#FFFFFF")
-        sleeptime += 1
-        time.sleep(sleeptime)
     if buttonA.value and not buttonB.value:  # just button B pressed
-        draw.text((x, y), str(sleeptime), font=font, fill="#FFFFFF")  
-    
+        hour = random.randint(0, 23)  # set the screen to white
+        draw.text((x, y), str(hour), font=font, fill="#FFFFFF")
+        colval = int(255 / (abs(12 - int(hour)) + 1))
+        disp.fill(color565(colval, colval, colval))
+    if buttonA.value and buttonB.value: #nothing is pressed
+        #display color
+        colval = int(255 / (abs(12 - int(hour)) + 1))
+        disp.fill(color565(colval, colval, colval))
+    time.sleep(1)
+
     # Display image.
     disp.image(image, rotation)
-    time.sleep(1)
+    
