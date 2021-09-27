@@ -69,26 +69,30 @@ buttonB.switch_to_input()
 from adafruit_rgb_display.rgb import color565
 sleeptime = 0
 import random
+font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 36)
 
 while True:
     # Draw a black filled box to clear the image.
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
-    y = top
     t = time.strftime("%H:%M:%S")
-    hour, min, sec = t.split(':')
+    hour, m, sec = t.split(':')
+    hour = int(hour)
+    tmin = hour * 60 + int(m)
+    colval = int(255 - 255/720 * (abs(720 - tmin)))
     if buttonB.value and not buttonA.value:  # just button A pressed
-        draw.text((x, y), t, font=font, fill="#FFFFFF")
+        draw.text((x, top), t, font=font, fill="#FFFFFF")
     if buttonA.value and not buttonB.value:  # just button B pressed
-        hour = random.randint(0, 23)  # set the screen to white
-        draw.text((x, y), str(hour), font=font, fill="#FFFFFF")
-        colval = int(255 / (abs(12 - int(hour)) + 1))
-        disp.fill(color565(colval, colval, colval))
+        rtmin = random.randint(0, 1439)
+        colval = int(255 - 255/720 * (abs(720 - rtmin)))
+        draw.rectangle((0, 0, width, height), outline=0, fill=(colval, colval, colval))
+        draw.text((x, top), str(rtmin), font=font, fill="#FFFFFF")
+        time.sleep(1)
     if buttonA.value and buttonB.value: #nothing is pressed
         #display color
-        colval = int(255 / (abs(12 - int(hour)) + 1))
-        disp.fill(color565(colval, colval, colval))
+        draw.rectangle((0, 0, width, height), outline=0, fill=(colval, colval, colval))
+        draw.text((x, (top + bottom) / 2), str(t), font=font, fill="#FFFFFF")
     time.sleep(1)
 
     # Display image.
