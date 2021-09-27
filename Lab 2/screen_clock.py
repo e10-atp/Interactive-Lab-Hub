@@ -69,7 +69,7 @@ buttonB.switch_to_input()
 from adafruit_rgb_display.rgb import color565
 sleeptime = 0
 import random
-font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 36)
+font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 42)
 
 while True:
     # Draw a black filled box to clear the image.
