@@ -219,4 +219,10 @@ As always, make sure you document contributions and ideas from others explicitly
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
 
+--Made the changes in the color changes more uniform by changing conversion function
+--Made color changes more granular by changing based on total minutes instead of hours
+--Stylized the font to be more readable and in a more fashionable position
+--Removed strobing effect by using different fill function
+--Made color test state more readable by combining color and time display stages and adding a pause
+
 
