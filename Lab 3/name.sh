@@ -1,0 +1,1 @@
+flite -voice slt -t "You're looking especially cute today Ethan."
