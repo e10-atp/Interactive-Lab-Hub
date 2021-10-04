@@ -107,6 +107,7 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
+I takled with my roommates about what a conversation with a dog would be like. Normally when talking to dogs they don't hold actual conversations, it's more one sided imperatives, and when they do ask questions it's often in a disingenuous manner. A device that talks for dogs would mostly say common human catch-phrases, maybe in a probabilistic manner given certain conditions.
 
 ### Acting out the dialogue
 
