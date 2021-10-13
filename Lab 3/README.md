@@ -102,16 +102,23 @@ From a remote browser on the same network, check to make sure your webserver is 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
 
 \*\***Post your storyboard and diagram here.**\*\*
+![Storyboard](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%203/WIN_20211004_15_36_26_Pro.jpg)
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
+
+I talked with my roommates about what a conversation with a dog would be like. Normally when talking to dogs they don't hold actual conversations, it's more one sided imperatives, and when they do ask questions it's often in a disingenuous manner. A device that talks for dogs would mostly say common human catch-phrases, maybe in a probabilistic manner given certain conditions.
 
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+
+https://youtu.be/DvVJn2V_vtI
+
+The actors in the dialogue started to talk about human concepts instead of dog concepts, because it is very difficult to estimate what a dog conversation is like. We also ran out of combinations of woofs, arfs, and barks to have long discussion and the actors got bored quickly.
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
