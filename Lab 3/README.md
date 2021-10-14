@@ -135,6 +135,13 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
 3. Make a new storyboard, diagram and/or script based on these reflections.
 
+
+\*\***Responses**\*\*
+The prep work from last week was rushed and I used the default idea since I was trying to meet several deadlines. Implementing a brand new idea with Ethan Huang (eh543) from the ground up this week.
+
+1. The concept should have a useful application to me that I have actual expertise in. I have never owned a dog so I wouldn't know what a conversation was like, so we're doing stock prices instead. The wording should be professional and businesslike, and the computer should wait for the human to fully stop speaking before it begins its speech. Sometimes the user may say a ticker or company name wrong so we might have to implement a "please try again" catch-all.
+2. We could have light indicators to indicate that the machine is listening
+3. ![Storyboard]https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%203/lab3story.png
 ## Prototype your system
 
 The system should:
