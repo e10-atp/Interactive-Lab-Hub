@@ -182,7 +182,7 @@ Answer the following:
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**Some people did not wait for the machine to finish speaking before they responded, so we should start recording for input sooner. Some people treated the voice as a person and gave full sentences, some gave the bare minimum information needed.\*\*
+\*\**Some people did not wait for the machine to finish speaking before they responded, so we should start recording for input sooner. Some people treated the voice as a person and gave full sentences, some gave the bare minimum information needed, so we should design our interactions around certain key words.*\*\*
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
