@@ -155,11 +155,13 @@ The system should:
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
+https://www.youtube.com/watch?v=Z8tSP4K21Cs
+https://youtu.be/YUNuovFE1w8
 
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+\*\**The system did its text to speech very well. It sounded very natural and people understood it easily. The speech to text system on the other hand was very inconsistent and we could not get it to behave consitently.*\*\*
 
 ### What worked well about the controller and what didn't?
 
