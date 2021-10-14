@@ -150,8 +150,18 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+1. The system talks to let the user know it is active through a speaker
+2. The system tells the user what kind o command it is looking for
+3. The system listens for a command via a microphone
+4. The user says a company name
+5. The system confirms it has received the response
+6. The system fetches appropriate stock data over the web using the yfinance library
+7. The system informs the user via speech to swpie the proximity sensor to buy shares
+8. The user swipes their hand by the sensor
+9. The system confirms the purchase of X stock at Y price via speaker
 
 *Include videos or screencaptures of both the system and the controller.*
+![Controller Hardware Setup](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%203/WIN_20211013_22_02_12_Pro.jpg)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
