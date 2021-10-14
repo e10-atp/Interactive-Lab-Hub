@@ -190,3 +190,4 @@ Answer the following:
 
 \*\**We can create a graph of nodes which indicate actions the user did and interactions our device needs to respond to them. Other sensing modalities that can be useful include gesture, instead of just proximity, so we can implement an option to sell as well as to buy.*\*\*
 
+TEAMMATES: Ethan Chang (ec687), Ethan Huang (eh543)
