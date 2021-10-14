@@ -161,6 +161,7 @@ The system should:
 9. The system confirms the purchase of X stock at Y price via speaker
 
 *Include videos or screencaptures of both the system and the controller.*
+Not shown: keyboard inputs
 ![Controller Hardware Setup](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%203/WIN_20211013_22_02_12_Pro.jpg)
 
 ## Test the system
