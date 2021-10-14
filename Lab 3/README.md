@@ -156,6 +156,7 @@ The system should:
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 https://www.youtube.com/watch?v=Z8tSP4K21Cs
+
 https://youtu.be/YUNuovFE1w8
 
 Answer the following:
@@ -165,14 +166,14 @@ Answer the following:
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+\*\**Our proximity sensor was very accurate and triggered the event well. We also scripted speech outputs using keybindings on the computer. Things worked as expected this way. Using the microphone to control the speech threw us into a lot of failures.*\*\*
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
+\*\**Some people did not wait for the machine to finish speaking before they responded, so we should start recording for input sooner. Some people treated the voice as a person and gave full sentences, some gave the bare minimum information needed.\*\*
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
+\*\**We can create a graph of nodes which indicate actions the user did and interactions our device needs to respond to them. Other sensing modalities that can be useful include gesture, instead of just proximity, so we can implement an option to sell as well as to buy.*\*\*
 
