@@ -165,6 +165,7 @@ The system should:
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
+
 https://www.youtube.com/watch?v=Z8tSP4K21Cs
 
 https://youtu.be/YUNuovFE1w8
