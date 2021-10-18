@@ -174,11 +174,15 @@ You can go to the [SparkFun GitHub Page](https://github.com/sparkfun/Qwiic_VL53L
 Usually, sensors need to positioned in specific locations or orientations to make them useful for their application. Now that you've tried a bunch of the sensors, pick one that you would like to use, and an application where you use the output of that sensor for an interaction. For example, you can use a distance sensor to measure someone's height if you position it overhead and get them to stand under it.
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
+![Sketches](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/lab4%20sketch1.png)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+Will users intuitively understand what a device is? Is it relatable to other things they already know about? Will they look for instructions? How durable do the touching/interactive parts need to be? Is the food alarm sanitary?
+
+Prototypes: Jumping on carboard pads, seeing how many times you can touch peppers before they get nasty, ask other students to guess the function of a build based on appearance, stab an alligator clip into some cake and see if my roommate will still eat it.
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
-
+Virtual jump rope
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
