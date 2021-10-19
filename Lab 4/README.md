@@ -243,6 +243,9 @@ Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
 
+Inside the container there is a display which can either be used for keeping count of consecutive jumps or can act as a visual indicator of the rope's position. There is also a rotary encoder which will adjust the speed of the rope. The device is run by a touch sensor attached to a sheet of cardboard for now. It may be easier to use a proximity sensor instead. The compute unit is taped outside right now for development purposes but can be put inside after the final iteration.
+
+![Carboard Prototype](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/unnamed.jpg)
 
 LAB PART 2
 
