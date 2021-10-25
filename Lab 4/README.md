@@ -177,6 +177,12 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 Using Touch sensors
 ![Sketches](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/lab4%20sketch1.png)
 
+![Rhythm Game](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/ddr.png)
+![Jump Rope](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/jumprope.png)
+![Food Alarm](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/foodalarm.png)
+![Piano](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/pepperpiano.png)
+![Brightness](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/brightness1.png)
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 Will users intuitively understand what a device is? Is it relatable to other things they already know about? Will they look for instructions? How durable do the touching/interactive parts need to be? Is the food alarm sanitary? Is this object conductive?
