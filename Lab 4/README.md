@@ -177,10 +177,15 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 Using Touch sensors
 ![Sketches](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/lab4%20sketch1.png)
 
+Rhytmn Game
 ![Rhythm Game](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/ddr.png)
+Jump Rope
 ![Jump Rope](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/jumprope.png)
+Food Alarm
 ![Food Alarm](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/foodalarm.png)
+Piano
 ![Piano](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/pepperpiano.png)
+Brightness
 ![Brightness](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/brightness1.png)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
@@ -249,7 +254,7 @@ Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
 
-Inside the container there is a display which can either be used for keeping count of consecutive jumps or can act as a visual indicator of the rope's position. There is also a rotary encoder which will adjust the speed of the rope. The device is run by a touch sensor (lost the touch sensor so using the proximity sensor to represent it) attached to a sheet of cardboard for now. It may be easier to use a proximity sensor instead. The compute unit is taped outside right now for development purposes but can be put inside after the final iteration.
+Inside the container there is a display which can either be used for keeping count of consecutive jumps or can act as a visual indicator of the rope's position. There is also a rotary encoder which will adjust the speed of the rope. The device is run by a touch sensor (loaned out the touch sensor so using the proximity sensor to represent it) attached to a sheet of cardboard for now. It may be easier to use a proximity sensor instead. The compute unit is taped outside right now for development purposes but can be put inside after the final iteration.
 
 ![Carboard Prototype](https://github.com/e10-atp/Interactive-Lab-Hub/blob/Fall2021/Lab%204/unnamed.jpg)
 
@@ -293,6 +298,8 @@ We encourage you to try using these controls, **while** paying particular attent
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
+*   The focal point of the device should be the mat component on the floor, with the controller portions being secondary to the user. The mat is designed to feel flat and safe to jump on repeatedly; the copper contacts are relatively unobtrusive, the cardboard soaks up impact, and the mat does not move on the floor at all. After doing intial user testing, it was found that users tended to look down at the mat to make sure that their feet were landing on the contacts/carboard. Originally, the display and controller were meant to be head-level and upright, however after these findings they were changed to rest on the floor.
 * "Works like": shows what the device can do
+*   The device has a timer in software which checks for each time a "rope" passes though a point in space. It does this by checking for contact with the touch sensor connected to the mat in a set frequency. To give the user feedback on their timings, the sound of the rope hitting the ground is played just before the check; on a good jump the user should hear nothing, and on a "trip" a falure sound plays. After getting user feedback to make the rope more fun, the highest consecutive jumps is also stored and displayed on each failure. The device also has the ability to change the rope swing speed through a rotary encoder, which can change the timing frequency in the range of [1.2s-3.2s].
 * "Acts like": shows how a person would interact with the device
 
