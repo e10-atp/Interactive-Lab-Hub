@@ -298,7 +298,9 @@ We encourage you to try using these controls, **while** paying particular attent
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 
-![Expanation](https://youtu.be/gpFPXi0XZSw)
+Explanation
+
+https://youtu.be/gpFPXi0XZSw
 
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
 
@@ -311,4 +313,8 @@ The focal point of the device should be the mat component on the floor, with the
 The device has a timer in software which checks for each time a "rope" passes though a point in space. It does this by checking for contact with the touch sensor connected to the mat in a set frequency. The mat has a lattice of copper strips to support conductivity for the touch sensor to operate, and a copper plate was added to improve consistency. To give the user feedback on their timings, the sound of the rope hitting the ground is played just before the check; on a good jump the user should hear nothing, and on a "trip" a falure sound plays. After getting user feedback to make the rope more fun, the highest consecutive jumps is also stored and displayed on each failure. The device also has the ability to change the rope swing speed through a rotary encoder, which can change the timing frequency in the range of [1.2s-3.2s].
 
 * "Acts like": shows how a person would interact with the device
-![demo](https://youtu.be/OpR2x7909Kc)
+
+
+Demo
+
+https://youtu.be/OpR2x7909Kc
